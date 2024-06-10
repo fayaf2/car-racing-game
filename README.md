@@ -1,2 +1,2 @@
-# car-racing-game
-racing game
+# Car-Racing-Game
+This is a Car Racing Game developed using Javascript.
